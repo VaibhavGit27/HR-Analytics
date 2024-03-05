@@ -37,6 +37,9 @@ To explore the dashboard, follow these steps:
 #### Human Resources
 ![View](https://github.com/VaibhavGit27/HR-Analytics/blob/main/Images/Attrition%20by%20Departments%20-%20Human%20Resources.png)
 
+#### Research and Development
+![View](https://github.com/VaibhavGit27/HR-Analytics/blob/main/Images/Attrition%20by%20Departments%20-%20Research%20and%20Development.png)
+
 #### Sales
 ![View](https://github.com/VaibhavGit27/HR-Analytics/blob/main/Images/Attrition%20by%20Departments%20-%20Sales.png)
 
@@ -81,7 +84,7 @@ To explore the dashboard, follow these steps:
 
 #### Salary between 10k and 15k 
 ![Performance](https://github.com/VaibhavGit27/HR-Analytics/blob/main/Images/Attrition%20by%20Salary%20-%2010k%20to%2015k.png)
-![Performance](https://github.com/VaibhavGit27/HR-Analytics/blob/main/Images/Attrition%20by%20Salary%20-%205k%20to%2010k%201.png)
+![Performance](https://github.com/VaibhavGit27/HR-Analytics/blob/main/Images/Attrition%20by%20Salary%20-%2010k%20to%2015k%201.png)
 
 #### Salary more than 15k 
 ![Performance](https://github.com/VaibhavGit27/HR-Analytics/blob/main/Images/Attrition%20by%20Salary%20-%20more%20than%2015k.png)
@@ -130,6 +133,10 @@ To explore the dashboard, follow these steps:
 #### Employees aged between 46 and 55
 ![Performance](https://github.com/VaibhavGit27/HR-Analytics/blob/main/Images/Attrition%20by%20Age%20Group%20-%2046%20to%2055.png)
 ![Performance](https://github.com/VaibhavGit27/HR-Analytics/blob/main/Images/Attrition%20by%20Age%20Group%20-%2046%20to%2055%201.png)
+
+#### Employees aged above 55 Years
+![Performance](https://github.com/VaibhavGit27/HR-Analytics/blob/main/Images/Attrition%20by%20Age%20Group%20-%20Above%2055.png)
+![Performance](https://github.com/VaibhavGit27/HR-Analytics/blob/main/Images/Attrition%20by%20Age%20Group%20-%20Above%2055%201.png)
 
 ### Tenure-based Attrition Analysis
 
